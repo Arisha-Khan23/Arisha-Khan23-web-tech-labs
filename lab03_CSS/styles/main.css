@@ -1,0 +1,18 @@
+body{
+font-family: Arial;
+margin: 40px;
+background-color: #f4f4f4;
+}
+
+h1{
+color: darkblue;
+}
+
+a{
+text-decoration: none;
+color: darkred;
+}
+
+a:hover{
+color: orange;
+}

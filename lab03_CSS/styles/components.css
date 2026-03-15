@@ -1,0 +1,30 @@
+p{
+color:blue;
+}
+
+.box{
+background-color: lightgray;
+padding:10px;
+}
+
+#special{
+color:red;
+font-weight:bold;
+}
+
+input[type="email"]{
+background-color:lightyellow;
+}
+
+li:first-child{
+color:green;
+}
+
+li:nth-child(2){
+color:orange;
+}
+.imgStyle{
+width:300px;
+border-radius:20px;
+box-shadow:5px 5px 10px gray;
+}
